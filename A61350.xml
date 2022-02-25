@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state of the whole kingdom concerning His Majestie and the Parliament, betweene, London, Yorke, and Hull. In a compendious demonstration of all interceding messages, intentions, or resolutions, either of the King or Parliament, with the respective answers of either. Also, certaine weighty and remarkeable admonitions sent from the commissions in Scotland, both to the King and Parliament, to compose the difference between them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61350</idno>
+            <idno type="STC">Wing S5324A</idno>
+            <idno type="STC">ESTC R220767</idno>
+            <idno type="EEBO-CITATION">99832159</idno>
+            <idno type="PROQUEST">99832159</idno>
+            <idno type="VID">36630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2135:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state of the whole kingdom concerning His Majestie and the Parliament, betweene, London, Yorke, and Hull. In a compendious demonstration of all interceding messages, intentions, or resolutions, either of the King or Parliament, with the respective answers of either. Also, certaine weighty and remarkeable admonitions sent from the commissions in Scotland, both to the King and Parliament, to compose the difference between them.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on A2r reads: The state of the whole kingdome, concerning his Majestie and the Parliament, between London, York, and Hull.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>MS. annotation at foot of title page: "4 May 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36630:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE STATE OF THE WHOLE KINGDOM: CONCERNING His MAJESTIE and the PARLIAMENT, Betweene, LONDON, YORKE, and HULL.</p>
+            <p>In a Compendious Demonſtration of All Interceding Meſſages, Intentions, or Reſolutions, either of the King or Parliament, with the Reſpective Anſwers of either.</p>
+            <p>Alſo, Certaine Weighty and Remarkeable Admonitions ſent from the Commiſſions in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> both to the King and Parliament, to Compoſe the difference between them.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>T.W.</hi> 1642.</p>
+            <pb facs="tcp:36630:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:36630:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:36630:3"/>
+            <!-- PDF PAGE 3 -->
+            <pb facs="tcp:36630:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>The State of the whole Kingdome, concerning his Majeſtie, and the Parliament, between <hi>London, York,</hi> and <hi>Hull.</hi>
+            </head>
+            <p>THe King and the Parliament mutually fomenting fears and jealouſies between each other, have cauſed this Kingdome to be involved in ſuch a ſtupendious Laborynch of diſtraction, that the eſtate of the whole King<g ref="char:EOLhyphen"/>dome is ſhaken thereby. Meſſages, and Remonſtrances, De<g ref="char:EOLhyphen"/>clarations and Replies have beene often reflected on each other; and while the Kings indignation is exaſperated, the Parliaments ſuſpition is not wanting. London is repleni<g ref="char:EOLhyphen"/>ſhed with griefe for his Majeſties abſence; and his Majeſty is alſo himſelfe perplexed at the excluſion given him at Hull, That a Subject ſhould deny him the injoyment of his owne poſſeſſions. In reſpect therefore that ſo many troubles and diſtempers doe infect and contaminate this Realme, with the contagious diffuſion of feares, and approa<g ref="char:EOLhyphen"/>ching miſeries; and that the State of this Kingdome is at this preſent reduced to the very brinke of calamity: it will not be impertinent ſeriouſly to conſider by what meanes it hath been brought into them, and by what meanes probably it may be emergent and brought out of them. Diverſe cau<g ref="char:EOLhyphen"/>ſes have produced theſe effects; but the principall cauſe is to be concluded from the variance and diſunion between the King and his Parliament. But it will not be unneceſſary to ſearch ſcrutably into the firſt, and prime cauſe, that begot this variance and diſunion, and then nouriſhed and continu<g ref="char:EOLhyphen"/>ed the ſame. It was (as it is by aſtipulation of all Men ge<g ref="char:EOLhyphen"/>nerally affirmed) the tumultuous uprores of ſome factious Spirits, that did not onely ſcare, but affright His Majeſty
+<pb facs="tcp:36630:4"/>
+               <!-- PDF PAGE 4 -->from his great Councell: running <hi>Catervatim,</hi> by Troopes down to White-hall, and then diſturbing his Majeſty with obſtreporous clamours. Which cauſed His Majeſty there<g ref="char:EOLhyphen"/>upon to conſtitute, and appoint a dayly Court of Guard; but perceiving, notwithſtanding, their protervity ſo egregi<g ref="char:EOLhyphen"/>ouſly obſtinate, he left his Parliament. And ever ſince, this diſagreement have continued between them to the unex<g ref="char:EOLhyphen"/>preſſible griefe of the Subjects. The Authors then hereof are apparantly demonſtrated, not to be any forraigne, but domeſticke foe: for our Enemies are only of our Houſe and Family, ſuch as under pretence of Peace, hatch civill Wars, and ſuch as our own diſcentions, jealouſies and diſtractions have begotten and raiſed up. And certainly, where ſuch are found (eſpecially between a King and his People) they will prove a ſufficient deſtruction to that Kingdome, and no o<g ref="char:EOLhyphen"/>ther cauſe of the unhappineſſe, and miſery of a State need to be ſought after: for civill diſcord is a plentifull Sourſe, from whence all miſeries and crowding miſchiefes flow greedily into a Kingdome.</p>
+            <p>The Scripture telleth us, <hi>Of the Great ſtrength of a Lit<g ref="char:EOLhyphen"/>tle City <g ref="char:V">Ʋ</g>nited, and of the Little ſtability of a Great King<g ref="char:EOLhyphen"/>dome divided within it ſelfe.</hi> So that upon a prudent inqui<g ref="char:EOLhyphen"/>ry, we may aſſigne our own jealouſies and diſcords, for the chieft cauſe of our paſt, and preſent troubles, and of our fu<g ref="char:EOLhyphen"/>ture feares.</p>
+            <p>The King for his part offereth to concurre with the Par<g ref="char:EOLhyphen"/>liament, in the ſetling all their liberties and immunities, either for the propriety of their goods, or liberty of their Perſons, which they have ſucceſſively received from their Anceſtor, or which himſelfe hath granted unto them. And (as appeares by His ſeverall Meſſages, and Anſwers to both Houſes of Parliament) what ſhall yet remaine for the good and comfort of His Subjects, He is willing to hearken, to
+<pb facs="tcp:36630:4"/>
+               <!-- PDF PAGE 4 -->all their juſt and reaſonable Propoſitions? And for the ratification and eſtabliſhment of the Proteſtant Religi<g ref="char:EOLhyphen"/>on, he woes them to it: The rule of His Government, He profeſſeth, ſhall be no other, then the Lawes of the King<g ref="char:EOLhyphen"/>dome. What can be more pretended, or expected from a King?</p>
+            <p>The Parliament on the other ſide make profeſſion, that they intend to make His Majeſty a glorious King, to en<g ref="char:EOLhyphen"/>deavour to ſupport his Dignity, and to pay unto him, that duty and obedience, which by their Allegiance, ſeverall Oathes, and late Proteſtation, they owe unto him: and to maintain all His juſt Regalities, and Prerogatives.</p>
+            <p>So that this Kingdome (the Parliament and King ha<g ref="char:EOLhyphen"/>ving thus reciprocally agreed of that, which would in the the generall make at once both the King, and his People happy) will be moſt unhappy and unfortunate, if they doe not bring both inclinations and endeavours ſo to pro<g ref="char:EOLhyphen"/>pound and ſettle particulars, as both King and People may know, what will give them mutuall ſatisfaction, which certainly muſt be the firſt ſtep to the ſetling of a right underſtanding between them. But when that con<g ref="char:EOLhyphen"/>fidence and beliefe, which ſhould be betwixt a King and his Subject are once loſt and diſſolved, there can be no greater difficulty, then to conjoyne them. For it is much eaſier to compoſe differences ariſing from reaſon, yea, from wrongs, then it is to ſatisfie jealouſies, which ariſing out of the diffidence, and diſtruſt between the King and People, grow, and are varied upon every occaſion. The Parliament have ordered the diſpoſall of the <hi>Militia</hi> of the Kingdome without the Kings conſent, warranted by the Authority of the fundamentall Lawes of the Land.</p>
+            <p>The King Anſwers to the contrary, and deſire to know what thoſe fundamentall Lawes of the Land are, and
+<pb facs="tcp:36630:5"/>
+               <!-- PDF PAGE 5 -->where to be found, or by what Ordinance ſince the firſt beginning of Parliaments to this preſent hath it been ever mentioned, that any thing hath been endeavoured to im<g ref="char:EOLhyphen"/>poſe any thing on the Subject without the Kings conſent?</p>
+            <p>The Parliament affirme by many Statutes the unlimi<g ref="char:EOLhyphen"/>ted power, and Authority of a Parliament.</p>
+            <p>The King acknowledgeth the ſame alſo, but withall he underſtandeth, that in the Word Parliament, the King as a part thereof is chiefly comprehended.</p>
+            <p>The King (being denied him to enter into Hull) pro<g ref="char:EOLhyphen"/>claimed Sir <hi>John Hotham</hi> Traytor, being an unparalel'd, high, and unheard of affront offered to his Majeſty.</p>
+            <p>The Parliament maintaine that Act of his to be no Treaſon, and proclaime him contrarily a faithfull ſervant of the Parliaments, and that they are confident his Act will appeare to all the World ſo farre from being an af<g ref="char:EOLhyphen"/>front to the King, that it will be found rather an Act of great loyalty to His Majeſty, and to the generall good of the Kingdome eſpecially. The King affirmeth, that He hath the ſame Title to His Town of Hull, which any of His Subjects have to their Houſes or Lands, and the ſame to his Magazine and Munition there, that any Man hath to his Mony, Plate or Jewels; and therefore that they ought not to have been diſpoſed of, without, or againſt His con<g ref="char:EOLhyphen"/>ſent, no more then the Houſe, Lands, Mony, Plate or Jew<g ref="char:EOLhyphen"/>els of any Subject ought to be without, or againſt his will. The Parliaments Anſwer, That His Majeſties Towns are no more his own, then the Kingdome is his own; and his Kingdome are no more his own, then his People are his owne; and if the King had a propriety in all his Townes, what would become of the Subjects propriety in their Houſes therein, and if he had a propriety in his King<g ref="char:EOLhyphen"/>dome, what would become of the Subjects propriety in
+<pb facs="tcp:36630:5"/>
+               <!-- PDF PAGE 5 -->their Lands throughout the Kingdome, or of their Li<g ref="char:EOLhyphen"/>berties: if His Majeſty had the ſame right in their per<g ref="char:EOLhyphen"/>ſons, that every Subject hath in their Lands, or Goods, and what ſhould become of the Subjects intereſts in the Townes and Forts of the Kingdome, and in the King<g ref="char:EOLhyphen"/>dome it ſelfe, if His Majeſty might ſell, or give them away, or diſpoſe of them at his pleaſure, as a particular Man may do with his Goods. Thus in every particular there is a moore Antipathy and Oppoſition on both ſides, ſeverall feares and jealouſies being nouriſhed, be<g ref="char:EOLhyphen"/>tween both the King and his Parliament; which if there be no endeavours to Allay, mitigate or remove, they will every day increaſe, grow ſtronger, and ſtronger, and ga<g ref="char:EOLhyphen"/>ther ſtrength variouſly: Nay, they are already grown to that height, and the mutuall replies to thoſe direct tearmes of oppoſition in contrary Anſwers, that if there be no preſent ſtop made, it is to be feared, it will ſpeedily paſſe farther then verball conteſtations. Yorkeſhire is in preparation of Armes to aſſiſt His Majeſty, and the Horſe-riding of that Country hath been performed ac<g ref="char:EOLhyphen"/>cording to His Majeſties command, and if by provocation of Words a Civill War ſhould ariſe, it would preſent<g ref="char:EOLhyphen"/>ly bring the whole Kingdome to a deſtructive and rui<g ref="char:EOLhyphen"/>nate demolution. So that we are upon the very brinke of our miſeries: but it is better keeping out of them, then getting out of them: and in an Eſtate, the Wiſe<g ref="char:EOLhyphen"/>of prevention, is infinitely beyond the Wiſedome of Remedies. If for the ſins of this Nation theſe miſ-un<g ref="char:EOLhyphen"/>derſtandings ſhould produce the leaſt Act of Hoſtility, it is not almoſt to be believed, how impoſſible it were to put a ſtay to our miſeries. For if it ſhould ſo hap<g ref="char:EOLhyphen"/>pen (which God of his Goodneſſe avert) that mutually
+<pb facs="tcp:36630:6"/>
+               <!-- PDF PAGE 6 -->Forces and Armies ſhould bee raiſed, jealouſies and feares would be much increaſed thereby, and in the ve<g ref="char:EOLhyphen"/>ry charge of maintaining them, the wealth of the King<g ref="char:EOLhyphen"/>dome would be conſumed. Of this we had lately a coſtly example in the Wars of Scotland, and after paci<g ref="char:EOLhyphen"/>fication was concluded, it coſt this Kingdome not much leſſe then a Million of pounds. And if two Armies be once on Foot here in England, either a ſudden encoun<g ref="char:EOLhyphen"/>ter muſt deſtroy one of them, or the keeping them both will deſtroy the Kingdome. I hope the Parliament will endeavour by moderation, and calmeneſſe, to put a ſtay to our appraching miſeries, and hearken to the wiſe advice of our Brethren of Scotland, in their Meſſage to the King and Parliament, wherein they earneſtly entreat them, That all poſſible meanes may be forborne which may make the breach wider, and the wound deeper: and that no place be given to the evill ſpirit of diviſion, which at ſuch time work unceſſantly, and reſteth not; But that the faireſt, the moſt Chriſtian and peaceable way of re-union may be taken by ſo wiſe a King, and Parliament, as may (againſt malice and oppoſition) make his Majeſty more glorious, and His Kingdome more happy then ever.</p>
+            <p>Which Pious, Prudent admonitions of Scotland (I hope) will be reſpectively embraced, to the reconcilia<g ref="char:EOLhyphen"/>tion of the King and Parliament, and conſequently the ſecurity of the Kingdome.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36630:6"/>
+            <!-- PDF PAGE 6 -->
+         </div>
+      </body>
+   </text>
+</TEI>
